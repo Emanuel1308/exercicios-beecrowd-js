@@ -1,0 +1,2 @@
+
+      expressaoPosfixa.push(expressaoInfixa[K])
